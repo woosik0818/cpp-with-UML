@@ -1,12 +1,12 @@
-#Code
+# Code
 
 ### diagram을 가지고 작성한 C++ 코드입니다.
 
-	  - [Header-file](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file) - 헤더 파일입니다.
+	[Header-file](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file) - 헤더 파일입니다.
 	
-		- [AddVoteControl.h](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file/AddVoteControl.h)
+	[AddVoteControl.h](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file/AddVoteControl.h)
 						
-		- [AddVoteUI.h](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file/AddVoteUI.h)
+	[AddVoteUI.h](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file/AddVoteUI.h)
 
 		- [DoVoteControl.h](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file/DoVoteControl.h)
 	
