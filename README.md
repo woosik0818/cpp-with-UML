@@ -2,13 +2,13 @@
 
 ### UML을 사용한 협업 투표 시스템 개발
 
-- [Code]() - diagram을 가지고 작성한 C++ 코드입니다.
+- [Code](https://github.com/woosik0818/cpp-with-UML/tree/master/Code) - diagram을 가지고 작성한 C++ 코드입니다.
 
-	- [Header-file]() - 헤더 파일입니다.
+	- [Header-file](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Header-file) - 헤더 파일입니다.
 	
-	- [Cpp-file]() - C++ 파일입니다.
+	- [Cpp-file](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Cpp-file) - C++ 파일입니다.
 	
-				* AddVoteControl.cpp - 새로운 투표 추가를 관리하는 코드 입니다.
+		- [AddVoteControl.cpp](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/AddVoteControl.cpp) - 새로운 투표 추가를 관리하는 코드 입니다.
 
 				* AddVoteControl.h
 						
