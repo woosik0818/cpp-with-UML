@@ -58,6 +58,7 @@
 
 		- [Vote.cpp](https://github.com/woosik0818/cpp-with-UML/tree/master/Code/Cpp-file/Vote.cpp) - 투표들의 정보를 관리하는 코드 입니다.
 
+
 			- UML을 사용하여 Water Fall 방식으로 Usecase Diagram, Communication Diagram을 만들고, C++언어를 
 			  기반으로 프로그램을 만들었습니다. 
 			
