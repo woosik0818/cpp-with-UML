@@ -1,4 +1,4 @@
-# 투표 시스템(C++) edited 임재형(Chris_Lim) only
+# 투표 시스템(C++) ## edited 임재형(Chris_Lim) only
 
 ### UML을 사용한 협업 투표 시스템 개발
 
