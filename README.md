@@ -2,9 +2,9 @@
 
 ### UML을 사용한 협업 투표 시스템 개발
 
--[diagram](https://github.com/woosik0818/cpp-with-UML/tree/master/diagram) - UML을 사용하여 만든 diagram들 입니다.
+- [diagram](https://github.com/woosik0818/cpp-with-UML/tree/master/diagram) - UML을 사용하여 만든 diagram들 입니다.
 
-	- [Communication diagram 1](https://github.com/woosik0818/cpp-with-UML/tree/master/diagram/Communication-diagram-1.png) - 투표 제안, 투표 행사, 현재 진행 중인 투표 조회, 향후 진행 예정인 투표 조회 입니다.
+		- [Communication diagram 1](https://github.com/woosik0818/cpp-with-UML/tree/master/diagram/Communication-diagram-1.png) - 투표 제안, 투표 행사, 현재 진행 중인 투표 조회, 향후 진행 예정인 투표 조회 입니다.
 
 		- [Communication diagram 2](https://github.com/woosik0818/cpp-with-UML/tree/master/diagram) - 종료된 투표 조회 입니다.
 
